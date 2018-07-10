@@ -1,5 +1,5 @@
 x = 3
-def no_puppies
+def no_puppies(x)
   if x > 0
     puts "No more puppies!"
   else
@@ -9,7 +9,7 @@ end
 no_puppies
 
 x = 6
-def less_puppies
+def less_puppies(x)
   if x < 3
     puts "Good job!"
   elsif x == 3
