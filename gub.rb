@@ -8,14 +8,14 @@ def no_puppies(x)
 end
 no_puppies
 
-x = 6
-def less_puppies
-  if x < 3
-    puts "Good job!"
-  elsif x == 3
-    puts "Slow down, Rachel!"
-  else x > 3
-    puts "Get back onto your animal restriction, RACHEL!"
-  end
-end
-less_puppies
+# x = 6
+# def less_puppies(x)
+#   if x < 3
+#     puts "Good job!"
+#   elsif x == 3
+#     puts "Slow down, Rachel!"
+#   else x > 3
+#     puts "Get back onto your animal restriction, RACHEL!"
+#   end
+# end
+# less_puppies
