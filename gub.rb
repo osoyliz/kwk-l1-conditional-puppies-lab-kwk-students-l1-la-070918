@@ -1,6 +1,6 @@
 x = 3
 def no_puppies(x)
-  if #{x > 0}
+  if x > 0
     puts "No more puppies!"
   else
     puts "Well done, Rachel!"
