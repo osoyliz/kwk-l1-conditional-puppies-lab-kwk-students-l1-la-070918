@@ -9,7 +9,7 @@ end
 no_puppies
 
 x = 6
-def less_puppies(x)
+def less_puppies
   if x < 3
     puts "Good job!"
   elsif x == 3
